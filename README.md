@@ -47,3 +47,7 @@ Para esta semana la tarea consiste en desarrollar código para una aplicación m
 ## 💡 Consejo de Docker
 
 > **Importante**: Recomiendo utilizar archivos **Dockerfile** (`.dockerfile`) y **Docker compose** (`.yaml`)
+
+Aconsejo entender la arquitectura de la aplicación para desarrollar los servicios en el archivo docker compose y la configuración específica de cada uno en los archivos dockerfile.
+
+> **Pista: Hay que hacer 3 servicios!!**
